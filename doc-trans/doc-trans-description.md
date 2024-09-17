@@ -13,16 +13,18 @@ Various libraries are used in the project, but the most important ones are:
 - **docx**: Python library for creating and updating Microsoft Word (.docx) files.
 - **pdf2docx**: Open source Python library converting pdf to docx.
 
-**Project Structure**
-## **Main Project Directory**
+## **Project Structure**
+**Main Project Directory**
 - *settings.py:* Configuration settings for the *Django* project, including database, static files, and Celery integration.
 - *urls.py:* URL routing configuration.
 - *wsgi.py:* Entry point for WSGI-compatible web servers.
-## **Application**
+
+**Application**
 - *views.py:* Handles file upload, translation logic, and rendering responses.
 - *forms.py:* Defines forms for language selection.
 - *file\_translator.py:* Contains the Translator class for translating files.
-## **Templates**
+
+**Templates**
 - *base.html:* Base template for other pages.
 - *error\_message.*html: Template for the “error” page.
 - *excel\_translator.html:* Template for excel file upload and translation interface.
