@@ -26,10 +26,10 @@ Various libraries are used in the project, but the most important ones are:
 
 **Templates**
 - *base.html:* Base template for other pages.
-- *error\_message.*html: Template for the “error” page.
+- *error\_message.html:* Template for the “error” page.
 - *excel\_translator.html:* Template for excel file upload and translation interface.
-- *word\_translator.*html: Template for word file upload and translation interface.
-- *pdf\_translator.*html: Template for PDF file upload and translation interface.
+- *word\_translator.html:* Template for word file upload and translation interface.
+- *pdf\_translator.html:* Template for PDF file upload and translation interface.
 - *index.html:* Template for the homepage.
 
 **Media Files**
@@ -62,7 +62,7 @@ The application is built using the Django framework and deployed on a *DigitalOc
 
 **Development Stage and Plans**
 
-At the moment, only a translator for Excel files is completed and a translator for Word files is being developed. In the future, it is planned to create a translator for *PowerPoint, PDF, SRT* and other files. Moreover, the design will be improved to make it easy to understand for a user. 
+At the moment, a translator for Excel, Word and PDF files is. However, now the process of file translation is being optimized to make it much faster. In the future, it is planned to create a translator for other types of files. Moreover, the design will be improved to make it easy to understand for a user. 
 
 
 *Web application link: <http://142.93.170.140/>* 
