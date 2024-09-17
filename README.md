@@ -47,4 +47,5 @@ FastAPI, JavaScript (Advanced Level), AI with OpenCV.
 ## Contact Me Via:
 
 Gmail: tomas.krauk@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/thomas-krauklis-296b0627b/
