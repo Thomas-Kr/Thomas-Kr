@@ -20,7 +20,7 @@ I worked in PS Komerc for an internship in 2022, 2023 and 2024, where I was invo
 
 A system connected to an Azure server to streamline the organization of school events. The program was developed mainly using PyQt5 and Microsoft SQL Server.
 
-**[Document Translator Web Application]()** 
+**[Document Translator Web Application](doc-trans/doc-trans-description.md)** 
 
 Currently under development, the application translates various document types, including Excel, Word and PDF files, into any language. The application is built using the Django framework and deployed on a DigitalOcean droplet, with server configuration handled by Nginx.
 
