@@ -64,9 +64,7 @@ The application is built using the Django framework and deployed on a *DigitalOc
 
 At the moment, a translator for Excel, Word and PDF files is. However, now the process of file translation is being optimized to make it much faster. In the future, it is planned to create a translator for other types of files. Moreover, the design will be improved to make it easy to understand for a user. 
 
-`
 
-`
 
 *Web application link: <http://142.93.170.140/>* 
 
