@@ -48,19 +48,19 @@ Various libraries are used in the project, but the most important ones are:
 1. **Translation**: The content of a file is translated using *GoogleTranslator*. A translated file is created and uploaded to the server.
 1. **Download**: Users download the translated file.
 
-**Homepage:**
+## **Homepage:**
 
 ![](doc-trans-1.png)
 
-**Translation Page:**
+## **Translation Page:**
 
 ![](doc-trans-2.png)
 
-**Hosting and Deployment**
+## **Hosting and Deployment**
 
 The application is built using the Django framework and deployed on a *DigitalOcean* droplet (Ubuntu), with server configuration handled by Nginx.
 
-**Development Stage and Plans**
+## **Development Stage and Plans**
 
 At the moment, a translator for Excel, Word and PDF files is. However, now the process of file translation is being optimized to make it much faster. In the future, it is planned to create a translator for other types of files. Moreover, the design will be improved to make it easy to understand for a user. 
 
