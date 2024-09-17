@@ -1,6 +1,6 @@
-###Project Description "DocTrans"
+## **Project Description "DocTrans"**
 
-###Introduction
+## **Introduction**
 
 The "DocTrans" project is a web application developed with *Django*, designed to translate the content of documents, such as Excel, Word, PDF files, using the *deep\_translator* library. The application provides a user-friendly interface for uploading documents, selecting translation languages, and receiving translated files.
 
