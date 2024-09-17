@@ -41,7 +41,7 @@ Various libraries are used in the project, but the most important ones are:
 - static/css/: Stores styles for html pages.
 - static/js/: Stores JavaScript scripts for html pages.
 
-**Workflow**
+## **Workflow**
 
 1. **File Upload**: Users upload a file through the web interface.
 1. **Language Selection**: Users select source and target languages.
