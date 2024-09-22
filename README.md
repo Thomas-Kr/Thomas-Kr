@@ -2,12 +2,16 @@
 
 My name is Thomas and I am a developer specializing in WEB and APP Development. I am constantly striving to learn new things connected to programming. Whether it's diving into a new programming language, exploring the latest web frameworks, or understanding the intricacies of app development, I believe in continuous learning and staying updated with industry trends. My goal is to not only build functional and user-friendly applications but also to continually improve my coding practices and expand my technical expertise.  
 
-## My Skills and Experience:
+## My Skills:
 
 Programming languages: Mainly Python, but also has experience in JavaScript, Golang, and C++.
+
 Web Development: Django, HTML, CSS, WordPress.
+
 System Administration: Setting up Ubuntu Servers, Working with Nginx.
+
 Database Management: SQL Server Management Studio.
+
 Video Analysing: OpenCV.
 
 ## My Work Experience:
