@@ -12,7 +12,7 @@ System Administration: Setting up Ubuntu servers, working with Nginx.
 
 Database Management: SQL Server Management Studio.
 
-Video Analysing: OpenCV.
+Analysis of Video: OpenCV, IP Camera Setup.
 
 ## My Work Experience:
 
@@ -42,7 +42,7 @@ Module that reads SRT files and provides various functions for working with them
 
 ## What I am Learning Now:
 
-Web Development, Nginx, Ubuntu, Django, Video Analysing, IP Camera Setup.
+Web Development, Nginx, Ubuntu, Django, Video Analysing.
 
 ## What I am Planning to Learn:
 
