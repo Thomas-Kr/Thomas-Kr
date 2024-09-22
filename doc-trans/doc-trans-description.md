@@ -9,13 +9,13 @@ The "DocTrans" project is a web application developed with *Django*, designed to
 Various libraries are used in the project, but the most important ones are:
 
 - **Django**: A Python web framework that provides the backend, URL routing, database handling, and template rendering.
-- **deep\_translator**: A library for translating text using various APIs.
-- **docx**: Python library for creating and updating Microsoft Word (.docx) files.
-- **pdf2docx**: Open source Python library converting pdf to docx.
+- **deep\_translator**: Library for translating text using various APIs.
+- **docx**: Library for creating and updating Microsoft Word (.docx) files.
+- **openpyxl**: Library to read/write Excel 2010 xlsx/xlsm/xltx/xltm files.
 
 ## **Project Structure**
 **Main Project Directory**
-- *settings.py:* Configuration settings for the *Django* project, including database, static files, and Celery integration.
+- *settings.py:* Configuration settings for the *Django* project.
 - *urls.py:* URL routing configuration.
 - *wsgi.py:* Entry point for WSGI-compatible web servers.
 
