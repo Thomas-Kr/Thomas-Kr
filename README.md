@@ -8,7 +8,7 @@ Programming languages: Mainly Python, but also has experience in JavaScript, Gol
 
 Web Development: Django, HTML, CSS, WordPress.
 
-System Administration: Setting up Ubuntu Servers, Working with Nginx.
+System Administration: Setting up Ubuntu servers, working with Nginx.
 
 Database Management: SQL Server Management Studio.
 
