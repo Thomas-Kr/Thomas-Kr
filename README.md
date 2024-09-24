@@ -28,7 +28,7 @@ A system connected to a database to streamline the organization of school events
 
 Currently under development, the application translates various document types, including Excel, Word and PDF files, into any language. The application is built using the Django framework and deployed on a DigitalOcean droplet, with server configuration handled by Nginx.
 
-**[YouTube Channel Automation]()**
+**[YouTube Channel Automation](https://github.com/Thomas-Kr/music-mixer)**
 
 A project that creates music videos and uploads them to a YouTube channel. Mainly used Moviepy library and Youtube API v3.
 
