@@ -26,7 +26,7 @@ A system connected to a database to streamline the organization of school events
 
 **[Document Translator Web Application](doc-trans/doc-trans-description.md)** 
 
-Currently under development, the application translates various document types, including Excel, Word and PDF files, into any language. The application is built using the Django framework and deployed on a DigitalOcean droplet, with server configuration handled by Nginx.
+The application translates various document types, including Excel, Word and PDF files, into any language. Is built using the Django framework and deployed on a DigitalOcean droplet, with server configuration handled by Nginx.
 
 **[YouTube Channel Automation](https://github.com/Thomas-Kr/music-mixer)**
 
@@ -46,7 +46,7 @@ Web Development, Nginx, Ubuntu, Django, Video Analysing.
 
 ## What I am Planning to Learn:
 
-FastAPI, JavaScript (Advanced Level), AI with OpenCV.
+FastAPI, JavaScript (Advanced Level).
 
 ## Contact Me Via:
 
