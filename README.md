@@ -4,7 +4,7 @@ My name is Thomas and I am a developer specializing in WEB and APP Development. 
 
 ## My Skills:
 
-Programming languages: Mainly Python, but also has experience in JavaScript, Golang, and C++.
+Programming languages: Mainly Python, but also has experience in Java, Golang, and C++.
 
 Web Development: Django, HTML, CSS, WordPress.
 
